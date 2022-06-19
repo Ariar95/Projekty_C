@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jceA7t7QrCIqyk+6fe3kIKDKyoIGb8WgPK4MRzxNp18AWa794bFBQ1xhWganssVphQfUFW2mWa/HnMuuK60guA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mateu\\source\\repos\\Unikalne\\Unikalne\\Unikalne.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mateu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

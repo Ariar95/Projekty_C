@@ -1,0 +1,16 @@
+C:\Users\mateu\source\repos\Unikalne\Unikalne\bin\Debug\net5.0\Unikalne.exe
+C:\Users\mateu\source\repos\Unikalne\Unikalne\bin\Debug\net5.0\Unikalne.deps.json
+C:\Users\mateu\source\repos\Unikalne\Unikalne\bin\Debug\net5.0\Unikalne.runtimeconfig.json
+C:\Users\mateu\source\repos\Unikalne\Unikalne\bin\Debug\net5.0\Unikalne.runtimeconfig.dev.json
+C:\Users\mateu\source\repos\Unikalne\Unikalne\bin\Debug\net5.0\Unikalne.dll
+C:\Users\mateu\source\repos\Unikalne\Unikalne\bin\Debug\net5.0\ref\Unikalne.dll
+C:\Users\mateu\source\repos\Unikalne\Unikalne\bin\Debug\net5.0\Unikalne.pdb
+C:\Users\mateu\source\repos\Unikalne\Unikalne\obj\Debug\net5.0\Unikalne.csproj.AssemblyReference.cache
+C:\Users\mateu\source\repos\Unikalne\Unikalne\obj\Debug\net5.0\Unikalne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\source\repos\Unikalne\Unikalne\obj\Debug\net5.0\Unikalne.AssemblyInfoInputs.cache
+C:\Users\mateu\source\repos\Unikalne\Unikalne\obj\Debug\net5.0\Unikalne.AssemblyInfo.cs
+C:\Users\mateu\source\repos\Unikalne\Unikalne\obj\Debug\net5.0\Unikalne.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\Unikalne\Unikalne\obj\Debug\net5.0\Unikalne.dll
+C:\Users\mateu\source\repos\Unikalne\Unikalne\obj\Debug\net5.0\ref\Unikalne.dll
+C:\Users\mateu\source\repos\Unikalne\Unikalne\obj\Debug\net5.0\Unikalne.pdb
+C:\Users\mateu\source\repos\Unikalne\Unikalne\obj\Debug\net5.0\Unikalne.genruntimeconfig.cache
