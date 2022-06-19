@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Sortowanie_z_wektorem_pomocniczym
+namespace Sortowanie_z_wektorem_pomocniczym // Algorytm w C#, który sortuje rosnąco liczby znajdujące się w tablicy, z wykorzystaniem wektora pomocniczego 
 {
     class Program
     {
