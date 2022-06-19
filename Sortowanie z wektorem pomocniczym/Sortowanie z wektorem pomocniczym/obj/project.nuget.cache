@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GcRUbBNV2smOLXITQmnuqSah7tMj0RO3okNTR8Ad4WjvPS6zcz8zJQmv8MaC4iJgUHyK6WHi8FprEkpmtYW0lA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mateu\\source\\repos\\Sortowanie z wektorem pomocniczym\\Sortowanie z wektorem pomocniczym\\Sortowanie z wektorem pomocniczym.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mateu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

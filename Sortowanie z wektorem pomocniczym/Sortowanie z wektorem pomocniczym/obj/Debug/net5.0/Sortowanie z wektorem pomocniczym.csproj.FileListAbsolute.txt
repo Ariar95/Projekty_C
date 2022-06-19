@@ -1,0 +1,16 @@
+C:\Users\mateu\source\repos\Sortowanie z wektorem pomocniczym\Sortowanie z wektorem pomocniczym\obj\Debug\net5.0\Sortowanie z wektorem pomocniczym.csproj.AssemblyReference.cache
+C:\Users\mateu\source\repos\Sortowanie z wektorem pomocniczym\Sortowanie z wektorem pomocniczym\obj\Debug\net5.0\Sortowanie z wektorem pomocniczym.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\source\repos\Sortowanie z wektorem pomocniczym\Sortowanie z wektorem pomocniczym\obj\Debug\net5.0\Sortowanie z wektorem pomocniczym.AssemblyInfoInputs.cache
+C:\Users\mateu\source\repos\Sortowanie z wektorem pomocniczym\Sortowanie z wektorem pomocniczym\obj\Debug\net5.0\Sortowanie z wektorem pomocniczym.AssemblyInfo.cs
+C:\Users\mateu\source\repos\Sortowanie z wektorem pomocniczym\Sortowanie z wektorem pomocniczym\obj\Debug\net5.0\Sortowanie z wektorem pomocniczym.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\Sortowanie z wektorem pomocniczym\Sortowanie z wektorem pomocniczym\bin\Debug\net5.0\Sortowanie z wektorem pomocniczym.exe
+C:\Users\mateu\source\repos\Sortowanie z wektorem pomocniczym\Sortowanie z wektorem pomocniczym\bin\Debug\net5.0\Sortowanie z wektorem pomocniczym.deps.json
+C:\Users\mateu\source\repos\Sortowanie z wektorem pomocniczym\Sortowanie z wektorem pomocniczym\bin\Debug\net5.0\Sortowanie z wektorem pomocniczym.runtimeconfig.json
+C:\Users\mateu\source\repos\Sortowanie z wektorem pomocniczym\Sortowanie z wektorem pomocniczym\bin\Debug\net5.0\Sortowanie z wektorem pomocniczym.runtimeconfig.dev.json
+C:\Users\mateu\source\repos\Sortowanie z wektorem pomocniczym\Sortowanie z wektorem pomocniczym\bin\Debug\net5.0\Sortowanie z wektorem pomocniczym.dll
+C:\Users\mateu\source\repos\Sortowanie z wektorem pomocniczym\Sortowanie z wektorem pomocniczym\bin\Debug\net5.0\ref\Sortowanie z wektorem pomocniczym.dll
+C:\Users\mateu\source\repos\Sortowanie z wektorem pomocniczym\Sortowanie z wektorem pomocniczym\bin\Debug\net5.0\Sortowanie z wektorem pomocniczym.pdb
+C:\Users\mateu\source\repos\Sortowanie z wektorem pomocniczym\Sortowanie z wektorem pomocniczym\obj\Debug\net5.0\Sortowanie z wektorem pomocniczym.dll
+C:\Users\mateu\source\repos\Sortowanie z wektorem pomocniczym\Sortowanie z wektorem pomocniczym\obj\Debug\net5.0\ref\Sortowanie z wektorem pomocniczym.dll
+C:\Users\mateu\source\repos\Sortowanie z wektorem pomocniczym\Sortowanie z wektorem pomocniczym\obj\Debug\net5.0\Sortowanie z wektorem pomocniczym.pdb
+C:\Users\mateu\source\repos\Sortowanie z wektorem pomocniczym\Sortowanie z wektorem pomocniczym\obj\Debug\net5.0\Sortowanie z wektorem pomocniczym.genruntimeconfig.cache

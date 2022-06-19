@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Sortowanie z wektorem pomocniczym/1.0.0": {
+        "runtime": {
+          "Sortowanie z wektorem pomocniczym.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sortowanie z wektorem pomocniczym/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
